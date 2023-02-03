@@ -5,12 +5,15 @@
 <h3 align="left">Digital Health Interoperability</h3>
 Interoperability is defined as "the ability of two or more devices, including software, from the same manufacturer or from different manufacturers to exchange information and use the information that has been exchanged for the correct execution of a specified function without changing "In the European Medical Device Regulation 2017/745 and the In Vitro Diagnostic Regulation 2017/746, which regulate all medical devices on the market in Europe. Interoperability is divided into four levels:
 <ul>
+  
   <li>functional</li> 
   <li>structural</li>
   <li>semantic</li>
   <li>Organizational</li>
+  </ul>
+  
 <center><img src="https://user-images.githubusercontent.com/118170079/215586392-996d82a0-0e84-44af-a9e9-938b0c0363dc.png" width= "450" height="350"/>
-<center><img src="https://user-images.githubusercontent.com/118170079/215591133-7a9b0e6e-39ac-4400-9d96-ecff49e146b6.png" width"500" height "400"/>                     
+                     
 The syntactic approach is necessary for this process, enabling systems to adopt common data formats and structural protocols. The next stage is to link each data element to an ontology using the semantic method, which employs metadata to link each data element to a controlled and shared collection of vocabulary. An ontology is a data model made up of concepts and the connections between them in a particular area. By following these criteria, businesses can convey pertinent information without relying on another information system.
 <h3 align="left">Why Interoperability?</h3>
 A significant roadblock to the digital transformation of healthcare is a lack of interoperability. Digitization in the healthcare industry has tremendous potential if data are freed from their silos and data flows, exchange, and sophisticated use of data are made possible. Examples of this potential in practice include:
