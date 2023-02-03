@@ -19,8 +19,12 @@ The syntactic approach is necessary for this process, enabling systems to adopt 
 A significant roadblock to the digital transformation of healthcare is a lack of interoperability. Digitization in the healthcare industry has tremendous potential if data are freed from their silos and data flows, exchange, and sophisticated use of data are made possible. Examples of this potential in practice include:
 <ul>
   <li>Patient access to their health data can empower them to actively pursue a healthy lifestyle and control their condition</li> 
-  <li>Ready-to-use patient-centric information can enable advanced clinical decision support in diagnostics and treatment</li>
-Thus, interoperability will support careers and provide better treatment at a cheaper cost, resulting in superior-quality patient outcomes. To balance the capacity    of critical care units, COVID-19 patients who were transferred between hospitals in the Netherlands had to share all their medical information (ICUs). To support      these initiatives, a portal was created using digital health standards, which gave doctors and other healthcare professionals crucial assistance when the number of    hospital admissions was at its highest.
+  <li>Ready-to-use patient-centric information can enable advanced clinical decision support in diagnostics and treatment</li></ul>
+  </ul>
+  
+<p>Thus, interoperability will support careers and provide better treatment at a cheaper cost, resulting in superior-quality patient outcomes. To balance the capacity  of critical care units, COVID-19 patients who were transferred between hospitals in the Netherlands had to share all their medical information (ICUs). To support      these initiatives, a portal was created using digital health standards, which gave doctors and other healthcare professionals crucial assistance when the number of    hospital admissions was at its highest.
+ </p>
+  
  <h3 align="left">The SDO LandScape</h3>
 The International Organization for Standardization (ISO), International Electrotechnical Commission (ICE), and International Telecommunication Union(ITU) and standards organizations based on the country representation model, have not always produced standards at the necessary pace and level of detail needed to benefit healthcare systems. As a result, a network of private and semi-official organizations and initiatives has developed, frequently driven by alliances between businesses, and users, with complementary and occasionally overlapping goals.
 <h3 align="left">Digital Imaging and Communications in Medicine (DICOM)</h3> 
@@ -28,6 +32,7 @@ The industry standard for managing and communicating data linked to medical imag
 Its goal is to manage associated workflows while ensuring the interoperability of systems used to create, store, share, display, send, query, process, retrieve, and print medical images.
 <left><img src="https://user-images.githubusercontent.com/118170079/215601014-4e405cfd-bde9-4dc5-8390-5edd3bdea690.png" width="450" height="400"/>
 <right><img src="https://user-images.githubusercontent.com/118170079/215602450-26896d90-36a5-4a74-a543-343d6b45bbd3.gif" width="500" height="450"/>
+  
 <h3 align="left">Medical laboratories</h3>
 One of the major sources of medical data, the medical laboratory, produces a sizeable portion of the patient data in the EHR. For data to move smoothly throughout the healthcare ecosystem, interoperability in the laboratory sector is essential. The goals include enhancing patient care, cutting down on unnecessary laboratory testing, enabling automated clinical decision support, assisting in alerting about infectious disease epidemics, and supporting large-scale national infectious disease surveillance.
 Testing the interoperability of ICT solutions against recognized eHealth standards and profiles specified in the eHealth European Interoperability Framework is one of the objectives of EURO-CAS, the European eHealth Interoperability Conformity Assessment Scheme. The main output is a sustainable Conformity Assessment Scheme (CAS) for Europe. A functional CAS based on ISO/IEC 17025 will be implemented by EURO-CAS to meet the interoperability requirements of European eHealth projects as well as national and regional eHealth programs, based on recommendations from the Antilope project and the state-of-the-art in eHealth interoperability testing. As part of the Digital Agenda for Europe and based on global profiles and standards, this will enable testing of the interoperability capabilities of goods and services for a single digital market in eHealth in Europe. To review the current state of interoperability CAS, gather requirements and need from cross-border, national/regional levels, establish the CAS for Europe with implementation guidelines and governance, and propose business models for the CAS, the project will bring together a multidisciplinary consortium of high-level expertise, including organizations focused on implementing international standards, industry stakeholders and healthcare providers. 
@@ -35,10 +40,12 @@ Testing the interoperability of ICT solutions against recognized eHealth standar
 Interoperability standards and specifications are growing strongly. The policy environment in Europe and the Member States will also continue to change, especially as the European Health Data Space prompts additional governmental and administrative activities in the years to come. The speed at which Member States and regions are demanding or encouraging adherence to interoperability specifications is increasing. The COVID-19 pandemic has also increased cooperation on interoperability concerns between the European Commission and Member States, particularly regarding the EU Digital COVID Certificate and the European Federation Gateway Service for contact tracking apps. This momentum could have an impact on future interoperability adoption in the European Health Data Space. I think interoperability helps innovation because it can foster a competitive environment where many competitors can compete based on the quality of their unique products. I hope this serves as a valuable resource for businesses and other interested parties.
 <h3 align="left">Yours sincerely, Farakh</h3> 
 <h2 align="left">References</h2>
+  
 <ul>
-  <li>https://cordis.europa.eu/project/id/727028</li> 
-  <li>https://www.nrces.in/standards/dicom</li>
-  <li>https://www.medtecheurope.org</li>
-  <li>https://www.himss.org/resources/interoperability-healthcare</li>
-  <li>https://www.tokenex.com</li> 
-
+  
+<li>https://cordis.europa.eu/project/id/727028</li> 
+<li>https://www.nrces.in/standards/dicom</li>
+<li>https://www.medtecheurope.org</li>
+<li>https://www.himss.org/resources/interoperability-healthcare</li>
+<li>https://www.tokenex.com</li> 
+</ul>
