@@ -1,8 +1,11 @@
 <h1 align="center">Digital Health Interoperability Network</h1>
 <h3 align="left">Introduction</h3>
 <p>It is commonly known that a lack of interoperability is a major obstacle to the adoption and use of digital health technology as well as the larger digital revolution of healthcare. There isn't a single interoperability standard for digital health. Instead, many different standards and profiles come from different initiatives and organizations, many of which have grown naturally to suit the interoperability requirements for certain usage. Information and communication technologies (ICT) have been slow to be adopted in the healthcare industry because of the fragmented environment. Healthcare appears to lag other sectors, such as consumer electronics, finance, and commerce, which have produced concrete examples of interoperable data flows while maintaining competitiveness. To provide the viewpoint of the medical technology sector on the standards, and specifications pertinent to digital health and to shed light on how they relate to interoperability requirements, MedTech Europe and European Coordination Committee (COCIR) have partnered. The target market for this includes businesses in the medical technology sector, policymakers at all levels (national, regional,and municipal as well as European and global), and decision-makers in healthcare organizations.</p>
-<center><img src="https://user-images.githubusercontent.com/118170079/215581169-5046c599-bca9-4dbe-8d6d-ab47f27c2881.jpeg" width="200" height="250"/>
-<h3 align="left">Digital Health Interoperability</h3>
+<center><img src="https://user-images.githubusercontent.com/118170079/215581169-5046c599-bca9-4dbe-8d6d-ab47f27c2881.jpeg" width="450" height="350"/>
+<center><img src="https://user-images.githubusercontent.com/118170079/216818222-99a411b7-7fdc-4750-b19a-cbd4e7b29909.png"width="450" height="350"/>
+
+<h3 align="left">
+Digital Health Interoperability</h3>
 <p>
 Interoperability is defined as "the ability of two or more devices, including software, from the same manufacturer or from different manufacturers to exchange information and use the information that has been exchanged for the correct execution of a specified function without changing "In the European Medical Device Regulation 2017/745 and the In Vitro Diagnostic Regulation 2017/746, which regulate all medical devices on the market in Europe. Interoperability is divided into four levels:
 <ul>
