@@ -19,8 +19,7 @@ The syntactic approach is necessary for this process, enabling systems to adopt 
 A significant roadblock to the digital transformation of healthcare is a lack of interoperability. Digitization in the healthcare industry has tremendous potential if data are freed from their silos and data flows, exchange, and sophisticated use of data are made possible. Examples of this potential in practice include:
 <ul>
   <li>Patient access to their health data can empower them to actively pursue a healthy lifestyle and control their condition</li> 
-  <li>Ready-to-use patient-centric information can enable advanced clinical decision support in diagnostics and treatment</li></ul>
-  </ul>
+  <li>Ready-to-use patient-centric information can enable advanced clinical decision support in diagnostics and treatment</li>
   
 <p>Thus, interoperability will support careers and provide better treatment at a cheaper cost, resulting in superior-quality patient outcomes. To balance the capacity  of critical care units, COVID-19 patients who were transferred between hospitals in the Netherlands had to share all their medical information (ICUs). To support      these initiatives, a portal was created using digital health standards, which gave doctors and other healthcare professionals crucial assistance when the number of    hospital admissions was at its highest.
  </p>
