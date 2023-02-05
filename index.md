@@ -15,7 +15,7 @@
   </ul>
   
 <center><img src="https://user-images.githubusercontent.com/118170079/215586392-996d82a0-0e84-44af-a9e9-938b0c0363dc.png" width= "450" height="350"/>   
-<center><img src="https://user-images.githubusercontent.com/118170079/216818222-99a411b7-7fdc-4750-b19a-cbd4e7b29909.png" width= "500" height="
+<center><img src="https://user-images.githubusercontent.com/118170079/216818222-99a411b7-7fdc-4750-b19a-cbd4e7b29909.png" width= "500" height="400"/>
 The syntactic approach is necessary for this process, enabling systems to adopt common data formats and structural protocols. The next stage is to link each data element to an ontology using the semantic method, which employs metadata to link each data element to a controlled and shared collection of vocabulary. An ontology is a data model made up of concepts and the connections between them in a particular area. By following these criteria, businesses can convey pertinent information without relying on another information system.</p>
 <h3 align="left">Why Interoperability?</h3> 
 <p>A significant roadblock to the digital transformation of healthcare is a lack of interoperability. Digitization in the healthcare industry has tremendous potential if data are freed from their silos and data flows, exchange, and sophisticated use of data are made possible. Examples of this potential in practice include:
