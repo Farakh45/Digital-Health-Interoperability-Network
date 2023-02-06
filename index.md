@@ -5,7 +5,7 @@
   
   
 <h3 align="left">Digital Health Interoperability</h3>
-Interoperability is defined as "the ability of two or more devices, including software, from the same manufacturer or from different manufacturers to exchange information and use the information that has been exchanged for the correct execution of a specified function without changing "In the European Medical Device Regulation 2017/745 and the In Vitro Diagnostic Regulation 2017/746, which regulate all medical devices on the market in Europe. Interoperability is divided into four levels:
+<p id="left">Interoperability is defined as "the ability of two or more devices, including software, from the same manufacturer or from different manufacturers to exchange information and use the information that has been exchanged for the correct execution of a specified function without changing "In the European Medical Device Regulation 2017/745 and the In Vitro Diagnostic Regulation 2017/746, which regulate all medical devices on the market in Europe. Interoperability is divided into four levels: </p>
   
 <ul>
   
